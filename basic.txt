@@ -1,3 +1,2 @@
 <h1>Hi this is the basic code</h1>
 
-<h2>lets start with basic command lines</h2>
