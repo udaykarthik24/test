@@ -1,2 +1,2 @@
-<h1>Hi this is the basic code</h1>
+<h1>basic commands</h1>
 
